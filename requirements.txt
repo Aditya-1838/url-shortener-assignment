@@ -1,0 +1,7 @@
+python_version >= 3.8             # Minimum required Python version
+
+Flask==2.3.2                      # Flask web framework
+Werkzeug==2.3.6                  # WSGI utility library used by Flask
+
+pytest==7.4.0                    # Testing framework for Python
+
