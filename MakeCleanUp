@@ -1,0 +1,4 @@
+cleanUp : 
+	rm -r ci
+	rm -r usr/bin
+	rm myshell
