@@ -1,0 +1,21 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binaries
+my-shell
+*.out
+*.exe
+
+# Debug files
+*.log
+
+# Editor / OS files
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+.cache/
